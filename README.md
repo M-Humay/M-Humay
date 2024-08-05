@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @Humay-Mammadova
+- 👋 Hello, I'm Humay Mammadova
 - 🤭 I love new things and learning software
 - 🔮 I develop projects with React, Javascript and React Native
 - 💞️ I am a believer in continuous and teamwork. I am driven by the desire to create effective and interesting web solutions
