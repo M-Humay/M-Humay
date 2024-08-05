@@ -1,0 +1,6 @@
+- 👋 Hello, I'm @Humay-Mammadova
+- 🤭 I love new things and learning software
+- 🔮 I develop projects with React, Javascript and React Native
+- 💞️ I am a believer in continuous and teamwork. I am driven by the desire to create effective and interesting web solutions
+- ⚡ I love creating user-friendly and engaging web applications and I'm always ready for solutions to new technologies!
+- 📫 How can I be reached humaymammadova91@gmail.com
